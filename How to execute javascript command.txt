@@ -1,0 +1,5 @@
+In file tsconfig
+"outDir": "./dist", //WITH DOT (.) because for libraries from linux
+
+#COMMAND
+node ./dist/app.js
